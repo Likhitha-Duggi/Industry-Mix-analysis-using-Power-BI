@@ -6,11 +6,11 @@ Overview: The City Corridor Industry Mix Dashboard is a power bi data visualizat
 
 Features:The City Corridor Industry Mix Dashboard offers the following features:
 
-Interactive Map: The dashboard includes an interactive map that displays the location of each industry in the city.
+1) Interactive Map: The dashboard includes an interactive map that displays the location of each industry in the city.
 
-Industry Mix Charts: The dashboard provides charts that show the industry mix in each corridor of the city.
+2) Industry Mix Charts: The dashboard provides charts that show the industry mix in each corridor of the city.
 
-Corridor Comparison: The dashboard allows users to compare the industry mix in different corridors of the city.
+3) Corridor Comparison: The dashboard allows users to compare the industry mix in different corridors of the city.
 
 Data Cleaning: I have used python pandas to eliminate the duplicate rows in the dataset and the rest of the cleaning has been done in the power bi.
 
