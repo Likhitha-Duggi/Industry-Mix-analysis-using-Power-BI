@@ -10,7 +10,7 @@ Key Features:
 
 Data Preparation:
 
--> Python pandas used for initial deduplication
--> Further refinement performed within Power BI
+1) Python pandas used for initial deduplication
+2) Further refinement performed within Power BI
 
 This dashboard serves as an essential resource for understanding the distribution and composition of industries throughout the city. By leveraging its interactive features, stakeholders can identify trends, compare corridors, and make informed decisions to foster economic development.
